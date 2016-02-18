@@ -1,0 +1,2 @@
+To uninstall:
+make uninstall

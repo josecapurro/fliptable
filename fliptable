@@ -1,0 +1,4 @@
+#!/bin/bash
+tables_will_be_flipped="(╯°□°）╯ ┻━┻"
+
+echo $tables_will_be_flipped | xsel -ib
